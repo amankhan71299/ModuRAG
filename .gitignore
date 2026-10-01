@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Extracted/generated files
+extracted_images/
+
+# Generated evaluation metrics
+rag_metrics*.jsonl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
